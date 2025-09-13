@@ -1,5 +1,9 @@
 # LifeCompass
 
+## Live Demo
+
+🚀 **Live Application**: [https://my-dilemma.vercel.app/](https://my-dilemma.vercel.app/)
+
 ## Description
 
 LifeCompass is an AI-powered decision-making tool designed to help users navigate life's toughest decisions. By inputting your dilemma, the application provides structured analysis including pros and cons, personalized recommendations, scenario simulations, and ethical bias checks to guide you towards informed choices.
