@@ -23,7 +23,7 @@ LifeCompass is an AI-powered decision-making tool designed to help users navigat
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Narendra-Rajput003/LifeCompass
    cd nextn
    ```
 
